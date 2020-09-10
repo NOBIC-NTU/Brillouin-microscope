@@ -2,7 +2,7 @@
 
 Brillouin microscope
 
-This repository provides details of the design of a microscope for Brillouin and Raman scattering imaging developed by Peter Török et al., NTU Optical Bio-Imaging Centre at Nanyang Technological University, Singapore.
+This repository provides details of the design of a microscope for Brillouin and Raman scattering imaging developed by Peter Török's research group at NTU Optical Bio-Imaging Centre (NOBIC), Nanyang Technological University, Singapore.
 
 Disclaimer
 
