@@ -1,6 +1,6 @@
 # Brillouin-microscope
 
-Brillouin microscope
+## Brillouin microscope
 
 This repository provides details of the design of a microscope measuring Brillouin scattering imaging developed by Peter Török's research group at NTU Optical Bio-Imaging Centre (NOBIC), Nanyang Technological University, Singapore.
 
