@@ -10,4 +10,4 @@ All the information here is provided "AS IS" in good faith. The developers shall
 
 ## License
 
-The designs are provided under Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0), which allows for non-commercial re-use of the designs if the source is acknowledged.
+The designs are provided under Creative Commons Zero v1.0 Universal license.
